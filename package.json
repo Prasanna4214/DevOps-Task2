@@ -1,0 +1,1 @@
+﻿{"name":"devops-task2-sample","version":"1.0.0","description":"Simple Node app for DevOps Task 2 (CI/CD demo)","main":"index.js","scripts":{"start":"node index.js","build":"echo \"No build step\"","test":"node test/sample-test.js"},"author":"Ragavendra","license":"MIT"}
